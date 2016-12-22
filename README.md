@@ -1,6 +1,6 @@
 # huffman
 ##Compilation
-To compile the program, run `make all` while wille compile an executable named huff.
+To compile the program, run `make all`
 ##Usage
 To compress a file, run the executable and give it the name as a file to compress as a parameter. For example, `./huff big.txt` will save a compressed file as big.huff.
 
